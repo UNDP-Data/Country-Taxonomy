@@ -2705,7 +2705,7 @@
   },
   {
     "Alpha-3 code-1": "TWN",
-    "Country or Area": "Taiwan",
+    "Country or Area": "Taiwan (Province of China)",
     "Alpha-2 code": "TW",
     "Numeric code": "158",
     "Latitude (average)": "23.69781",
@@ -2721,7 +2721,7 @@
   },
   {
     "Alpha-3 code-1": "WBG",
-    "Country or Area": "West Bank and Gaza",
+    "Country or Area": "State of Palestine",
     "Alpha-2 code": "",
     "Numeric code": "",
     "Latitude (average)": "32",
@@ -3745,7 +3745,7 @@
   },
   {
     "Alpha-3 code-1": "XKX",
-    "Country or Area": "Kosovo",
+    "Country or Area": "Kosovo (as per UNSCR 1244)",
     "Alpha-2 code": "XK",
     "Numeric code": "383",
     "Latitude (average)": "20.87249811",
